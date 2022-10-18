@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(87, 222, 179);
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+    border-style: solid;
+    width: 500px;
+    border-color: transparent;
+}
+
+.numbaTwo {
+    /* background-color: yellow; */
+    border-style: solid;
+    border-width: 5px;
+    width: 600px;
+    font-size: 24px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-color: transparent;
+}
+
+.backbutton {
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    width: 150px;
+    background-color:rgb(252, 242, 138);
+}
